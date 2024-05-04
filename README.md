@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpit4213&label=Profile%20views&color=0e75b6&style=flat" alt="arpit4213" /> </p>
 
-- 🌱 I’m currently learning **C++ and CSS**
+- 🌱 I’m currently learning **DSA using JAVA**
 
 - 📫 How to reach me **arpitsharma4213@gmail.com**
 
